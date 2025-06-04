@@ -16,22 +16,28 @@ Ao clicar em "Ver Detalhes" em qualquer produto, o usuário é direcionado para 
 
 ## Página Inicial
 
-![Texto alternativo](caminho/para/imagem.extensão)
+![Página Inicial](Telas/HomePage.png)
 
-## Customize configuration
+## Categorias
 
-![Texto alternativo](caminho/para/imagem.extensão)
+![Categorias](Telas/Categories.png)
+
+## Produto
+
+![Produto](Telas/Products.png)
 __________________________________________________________
 ## Como Executar o projeto Localmente
 
 ```sh
-Garanta que tenha o node.js instalado em sua máquina. Baixe o zip do projeto e descompactue.
+Garanta que tenha o node.js instalado em sua máquina. clone o projeto com git clone https://github.com/oliveira191205/E-commerce.git
 ```
 ```sh
 Abra o terminal(cmd) dentro da pasta descompactada
+ou
+com o comando cd E-commerce 
 ```
 ```sh
-Execute: npm install
+Instale: npm install
 ```
 
 
@@ -42,4 +48,4 @@ Execute: npm run dev
 ```sh
 Selecione a tecla "o" e a plataforma abrirá no navegador
 ```
-Criamos um vídeo demonstrativo que apresenta as funcionalidades do projeto e orienta sobre seu uso. Você pode assisti-lo em:
+Criamos um vídeo demonstrativo que apresenta as funcionalidades do projeto e orienta sobre seu uso. Você pode assisti-lo em: https://youtu.be/s8RxKX76qys?si=RYpJYRhlbNpwC4Ak

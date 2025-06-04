@@ -54,3 +54,10 @@ Execute: npm run dev
 Selecione a tecla "o" e a plataforma abrirá no navegador
 ```
 Criamos um vídeo demonstrativo que apresenta as funcionalidades do projeto e orienta sobre seu uso. Você pode assisti-lo em: https://youtu.be/s8RxKX76qys?si=RYpJYRhlbNpwC4Ak
+
+
+## Projeto Desenvolvido Por 
+```sh 
+Larissa Vitória Custodio de Carvalho RA:1995354
+Marcela Buzzo de Oliveira RA:2014340
+```

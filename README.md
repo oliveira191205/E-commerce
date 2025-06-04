@@ -26,11 +26,16 @@ Ao clicar em "Ver Detalhes" em qualquer produto, o usuário é direcionado para 
 
 ![Produto](Telas/Products.png)
 __________________________________________________________
-## Como Executar o projeto Localmente
+## Como Executar o Projeto Localmente
 
 ```sh
-Garanta que tenha o node.js instalado em sua máquina. clone o projeto com git clone https://github.com/oliveira191205/E-commerce.git
+Garanta que tenha o node.js instalado em sua máquina. 
 ```
+
+```sh
+Clone o projeto com git clone https://github.com/oliveira191205/E-commerce.git
+```
+
 ```sh
 Abra o terminal(cmd) dentro da pasta descompactada
 ou
